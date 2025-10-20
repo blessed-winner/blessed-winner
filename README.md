@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**blessed-winner/blessed-winner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IMPANO Blessed Winner
 
-Here are some ideas to get you started:
+I am a software developer passionate about building efficient, maintainable, and scalable applications. I enjoy exploring different technologies and continuously improving my skills through practical projects and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core Skills:
+
+JavaScript, TypeScript, Node.js
+
+NestJS, Express
+
+React, HTML, CSS, Tailwind
+
+Algorithms and data structures
+
+Software design principles and scalable architectures
+
+I am committed to delivering solutions that have real-world impact and to collaborating on projects that challenge me to grow.
+Feel free to explore my projects or reach out for collaboration.
