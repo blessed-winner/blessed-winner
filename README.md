@@ -1,3 +1,8 @@
+# IMPANO Blessed Winner
+
+I'm a **Software Engineer** who builds working applications.  
+I focus on clean, maintainable code and reliable solutions.  
+I aim to deliver practical software that works.
 ## 🛠️ Tech Stack
 
 ### Frontend
