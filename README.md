@@ -27,70 +27,9 @@ I aim to deliver practical software that works.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+##GitHub Stats
+https://github-readme-stats.vercel.app/api?username=blessed-winner&show_icons=true&theme=transparent
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Glassy GitHub Stats</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
-    }
-
-    body {
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background: linear-gradient(135deg, #1e3c72, #2a5298);
-    }
-
-    .glass-card {
-      width: 400px;
-      padding: 30px;
-      border-radius: 20px;
-      background: rgba(255, 255, 255, 0.1);
-      backdrop-filter: blur(15px);
-      -webkit-backdrop-filter: blur(15px);
-      border: 1px solid rgba(255, 255, 255, 0.2);
-      box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
-      text-align: center;
-      color: white;
-    }
-
-    .glass-card h2 {
-      margin-bottom: 20px;
-      font-weight: 600;
-      letter-spacing: 1px;
-    }
-
-    .glass-card img {
-      width: 100%;
-      border-radius: 15px;
-    }
-
-    .username {
-      margin-top: 15px;
-      font-size: 14px;
-      opacity: 0.8;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="glass-card">
-    <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=blessed-winner&show_icons=true&theme=transparent" />
-    <div class="username">@blessed-winner</div>
-  </div>
-
-</body>
-</html>
 
 
 
