@@ -27,8 +27,17 @@ I aim to deliver practical software that works.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-##GitHub Stats
-https://github-readme-stats.vercel.app/api?username=blessed-winner
+## GitHub Stats
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=blessed-winner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
+
+  <img src="https://streak-stats.demolab.com?user=blessed-winner&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=blessed-winner&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" />
+
+</div>
 
 
 
