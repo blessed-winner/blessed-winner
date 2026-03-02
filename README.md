@@ -28,7 +28,7 @@ I aim to deliver practical software that works.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ##GitHub Stats
-https://github-readme-stats.vercel.app/api?username=blessed-winner&show_icons=true&theme=transparent
+https://github-readme-stats.vercel.app/api?username=blessed-winner
 
 
 
