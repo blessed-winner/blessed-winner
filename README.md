@@ -31,5 +31,5 @@ I am a results-driven Software Engineer dedicated to building scalable, maintain
 ---
 
 ### Contact & Connectivity
-* [LinkedIn]((https://www.linkedin.com/in/impano-blessed-winner-b5b628336/))
+* [LinkedIn](https://www.linkedin.com/in/impano-blessed-winner-b5b628336/)
 * [Email](mailto:blessedwinner66@gmail.com)
