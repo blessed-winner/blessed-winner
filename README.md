@@ -1,44 +1,35 @@
 # IMPANO Blessed Winner
+**Software Engineer**
 
-I'm a **Software Engineer** who builds working applications.  
-I focus on clean, maintainable code and reliable solutions.  
-I aim to deliver practical software that works.
-## 🛠️ Tech Stack
+I am a results-driven Software Engineer dedicated to building scalable, maintainable, and reliable applications. I prioritize clean architecture and practical solutions that bridge the gap between complex requirements and high-quality software.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### Technical Expertise
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Frontend**
+* Modern Web: TypeScript, JavaScript (ES6+), HTML5, CSS3
 
-### Others / Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Backend**
+* Runtimes & Frameworks: Node.js, NestJS, Express
+* Languages: Java
 
-## GitHub Stats
+**Data Management**
+* Relational: PostgreSQL, MySQL
+* NoSQL: MongoDB
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+**Tools & Infrastructure**
+* DevOps: Docker, Git, GitHub
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=blessed-winner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
+---
 
-  <img src="https://streak-stats.demolab.com?user=blessed-winner&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+### Philosophy & Focus
+* **Clean Code:** Writing readable, self-documenting code that scales with the team.
+* **Performance:** Optimizing backend logic and database queries for efficiency.
+* **Reliability:** Ensuring system stability through robust testing and architectural patterns.
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=blessed-winner&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" />
+---
 
-</div>
-
-
-
-
+### Contact & Connectivity
+* [LinkedIn]((https://www.linkedin.com/in/impano-blessed-winner-b5b628336/))
+* [Email](mailto:blessedwinner66@gmail.com)
