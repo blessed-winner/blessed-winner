@@ -11,15 +11,15 @@ I am a results-driven Software Engineer dedicated to building scalable, maintain
 * Modern Web: TypeScript, JavaScript (ES6+), HTML5, CSS3
 
 **Backend**
-* Runtimes & Frameworks: Node.js, NestJS, Express
-* Languages: Java
+* Runtimes & Frameworks: Node.js, NestJS, Express, Spring Boot
+* Languages: Java, Javascript
 
 **Data Management**
 * Relational: PostgreSQL, MySQL
-* NoSQL: MongoDB
+* NoSQL: MongoDB, Redis
 
 **Tools & Infrastructure**
-* DevOps: Docker, Git, GitHub
+* DevOps: Docker, Git, GitHub, CI/CD(GitHub Actions)
 
 ---
 
@@ -33,3 +33,4 @@ I am a results-driven Software Engineer dedicated to building scalable, maintain
 ### Contact & Connectivity
 * [LinkedIn](https://www.linkedin.com/in/impano-blessed-winner-b5b628336/)
 * [Email](mailto:blessedwinner66@gmail.com)
+* [Portfolio](https://blessedwinner.vercel.app)
